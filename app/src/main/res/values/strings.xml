@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NFL Scores</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="NFC_TEAMS">
+
+       <item>Choose Team</item>
+        <item>Seattle</item>
+        <item>San Fransisco</item>
+        <item>Arizona</item>
+        <item>Los Angeles</item>
+
+    </string-array>
+    <string-array name="AFC_TEAMS">
+
+        <item>Choose Team</item>
+        <item>Indianapolis</item>
+        <item>Jacksonville</item>
+        <item>Houston</item>
+        <item>Tennessee</item>
+
+    </string-array>
+</resources>
